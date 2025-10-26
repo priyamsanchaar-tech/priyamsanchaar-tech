@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Priyam Sanchaar 👋
 
-<!--
-**priyamsanchaar-tech/priyamsanchaar-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Third-year Student**  
+Passionate about leveraging technology to solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **React**
+- **Supabase**
+- **Node.js**
+- **HTML & CSS**
+- **JavaScript**
+- **SQL**
+
+## 🌱 About Me
+
+I’m a curious learner, always exploring new tools and frameworks. Currently, I’m focused on building web applications that make a difference.  
+Looking to collaborate, contribute, and grow in the developer community.
+
+## 📫 Connect with Me
+
+- **GitHub:** [priyamsanchaar-tech](https://github.com/priyamsanchaar-tech)
+- **Email:** priyam.sanchaar@gmail.com
+
+---
+
+![Priyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyamsanchaar-tech&show_icons=true&theme=radical)
